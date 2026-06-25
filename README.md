@@ -142,7 +142,9 @@ After each piece locks, the code scans every row bottom-to-top. A full row is re
 ```
 arduino-tetris/
 ├── tetris.ino       ← Main game file (everything is here)
-└── README.md        ← This file
+└── README.md     ← This file
+└── ColorScheme.png
+└── Libraries
 ```
 
 ---
